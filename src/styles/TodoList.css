@@ -1,0 +1,11 @@
+.todo-list {
+    background-color: grey;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.todo-list > * {
+    margin-bottom: 1em;
+}
+
+/*# sourceMappingURL=TodoList.css.map */
