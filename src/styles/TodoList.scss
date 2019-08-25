@@ -1,0 +1,9 @@
+.todo-list {
+  background-color: grey;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  > * {
+    margin-bottom: 1em;
+  }
+}
